@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="images/banner.png" alt="Banner Busca CEP" width="100%">
-</p>
-
-<p align="center">
   <a href="https://marcelogomesdev.github.io/busca-cep-atualizado/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20ACESSAR%20PROJETO-2563EB?style=for-the-badge&logoColor=white" alt="Acessar Projeto">
   </a>
