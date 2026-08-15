@@ -14,12 +14,6 @@ Aplicação web responsiva para **consultar endereços brasileiros de forma ráp
 
 O projeto oferece validação de CEP, preenchimento automático do endereço, integração com mapas, histórico de consultas, armazenamento local e suporte aos modos claro e escuro.
 
-## 🌐 Acessar o projeto
-
-Após publicar no GitHub Pages, acesse:
-
-`https://SEU-USUARIO.github.io/busca-cep/`
-
 ## ✨ Funcionalidades
 
 * 🔎 Consulta de CEP utilizando a API ViaCEP.
